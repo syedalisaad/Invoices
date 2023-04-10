@@ -8,7 +8,7 @@
   * file that was distributed with this source code.
   */
 
-namespace ConsoleTVs\Invoices;
+namespace syedalisaad\Invoices;
 
 use Illuminate\Support\ServiceProvider;
 
