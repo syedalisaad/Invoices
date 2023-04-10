@@ -8,7 +8,7 @@
   * file that was distributed with this source code.
   */
 
-namespace ConsoleTVs\Invoices\Traits;
+namespace syedalisaad\Invoices\Traits;
 
 use Carbon\Carbon;
 use Illuminate\Support\Collection;

@@ -8,7 +8,7 @@
   * file that was distributed with this source code.
   */
 
-namespace ConsoleTVs\Invoices\Classes;
+namespace syedalisaad\Invoices\Classes;
 
 use Dompdf\Dompdf;
 use Dompdf\Options;
